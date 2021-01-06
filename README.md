@@ -2,7 +2,7 @@
 Jalankan Perintah berikut untuk mendownload data dari repository github
 
 ```sh
-$ git clone https://github.com/KarelNatalia/karelnatalia.git && cd karelnatalia
+$ git clone https://github.com/RiskyRifaldy/TUGAS
 ```
 
 # Cara Menjalankan
